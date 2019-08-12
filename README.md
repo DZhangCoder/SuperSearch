@@ -25,8 +25,10 @@ Lead Front-end Developer
 SuperSource is your all-in-one comic book content resource! Just enter in a search term (your favorite superhero, comic book, etc.),
 and hit enter or press submit to get quick character, image, movie, music, and store results. 
 
+### How to Use?
+Simply type in the names of superheroes (ex. Hulk) and hit enter, and the search results boxes would show the hero-relevant character, image, movie, music, and store results. 
 
-#### Link to SuperSource
+### Link to SuperSource
 https://sarahmbeecroft.github.io/Project-1/
 
 ### Contact Information
