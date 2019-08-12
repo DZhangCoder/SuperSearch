@@ -1,10 +1,12 @@
-# Project-1 - SuperSearch
-Group project #1
+# SuperSearch
 
 ### Team Members
 - Sarah Beecroft
 - Dongdong Zhang
 - Jon Lindley
+
+### Role
+Lead Front-end Developer
 
 ### Tools and APIs Utilized
 - HTML
@@ -26,3 +28,6 @@ and hit enter or press submit to get quick character, image, movie, music, and s
 
 #### Link to SuperSource
 https://sarahmbeecroft.github.io/Project-1/
+
+### Contact Information
+General Inquiries at ddzhang2018@gmail.com
